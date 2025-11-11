@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "ejercicio1.dtd">
+<biblioteca>
+    <libro>
+        <titulo></titulo>
+        <autor></autor>
+        <anio></anio>
+        <genero></genero>
+    </libro>
+    <libro>
+        <titulo></titulo>
+        <autor></autor>
+        <anio></anio>
+        <genero></genero>
+    </libro>
+</biblioteca>

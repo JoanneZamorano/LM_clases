@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <empleado>
+        <nombre>Pepe</nombre>
+        <apellido>Ramirez</apellido>
+        <numero>666555444</numero>
+        <correo>pepe.ramirez@gmail.comcorreo</correo>
+        <direccion>
+            <ciudad>avenida principal</ciudad>
+            <estado>Madrid</estado>
+            <zip>28806</zip>
+        </direccion>
+    </empleado>
+</empresa>
