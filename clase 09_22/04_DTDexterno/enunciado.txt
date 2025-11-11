@@ -1,0 +1,8 @@
+Crea un XML de empleados y un DTD externo empsesa.dtd
+Requisitos minimos:
+    + Raiz <empresa>
+    + Cada <empleado> contiene: <nombre>, <puesto> y <salario>
+    + Atributos: 
+        -empleado @id de tipo ID (obligatorio y único)
+        -<salario> debe tener un atributo @moneda con valores (EUR | USD)
+    +Valida con <!DOCTYPE empresa SYSTEM "empresa.dtd">
