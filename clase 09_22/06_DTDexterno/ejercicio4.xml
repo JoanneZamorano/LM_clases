@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE universidad SYSTEM "ejercicio4.dtd">
+
+<universidad>
+    <asignaturas>
+        <asignatura id="asig1">
+            <nombre>Lenguaje Marcas</nombre>
+            <creditos>200</creditos>
+        </asignatura>
+        <asignatura id="asig2">
+            <nombre>Programación</nombre>
+            <creditos>300</creditos>
+        </asignatura>
+    </asignaturas>
+
+    <alumnos>
+        <alumno nia="alum01">
+            <nombre>Joanne</nombre>
+        </alumno>
+        <alumno nia="alum02">
+            <nombre>Javi</nombre>
+        </alumno>
+    </alumnos>
+
+    <matriculas>
+        <matricula alumni="alum02" asignatura="asig1"/>
+    </matriculas>
+</universidad>
